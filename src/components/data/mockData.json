@@ -1,0 +1,302 @@
+{
+    "nodes": [
+      {
+        "id": "R1",
+        "group": "Researcher",
+        "label": "Dr. Researcher 1",
+        "education": "PhD in Field 1",
+        "photo": "https://content-system.newrich.com/api/attachments/media/eyJpdiI6IjJudUR1cW1pSnR2YmxMT0YzQlA5V3c9PSIsInZhbHVlIjoiRFppUzhMYjhHcExiTGh2MXRLcUZ4RUtocjdHanRmM3BNQ3JJMFZLWUxTQklWamovREtlWE9jZWxLaklPc0FaSyIsIm1hYyI6IjVmMWY3OTVmN2JmMWRjYzZiNjQ2MjMyZWVhMWQ1OWY0YmMzZjMyNGM2OTNkNmIyYTdmODllMmMwYzZmM2ZlNGIiLCJ0YWciOiIifQ==",
+        "work": "Institution 1",
+        "publications": [
+          "Paper 1-1",
+          "Paper 1-2",
+          "Paper 1-3"
+        ]
+      },
+      {
+        "id": "R2",
+        "group": "Researcher",
+        "label": "Dr. Researcher 2",
+        "education": "PhD in Field 2",
+        "work": "Institution 2",
+        "publications": [
+          "Paper 2-1",
+          "Paper 2-2",
+          "Paper 2-3"
+        ]
+      },
+      {
+        "id": "R3",
+        "group": "Researcher",
+        "label": "Dr. Researcher 3",
+        "education": "PhD in Field 3",
+        "work": "Institution 3",
+        "publications": [
+          "Paper 3-1",
+          "Paper 3-2",
+          "Paper 3-3"
+        ]
+      },
+      {
+        "id": "R4",
+        "group": "Researcher",
+        "label": "Dr. Researcher 4",
+        "education": "PhD in Field 4",
+        "work": "Institution 4",
+        "publications": [
+          "Paper 4-1",
+          "Paper 4-2",
+          "Paper 4-3"
+        ]
+      },
+      {
+        "id": "R5",
+        "group": "Researcher",
+        "label": "Dr. Researcher 5",
+        "education": "PhD in Field 5",
+        "work": "Institution 5",
+        "publications": [
+          "Paper 5-1",
+          "Paper 5-2",
+          "Paper 5-3"
+        ]
+      },
+      {
+        "id": "R6",
+        "group": "Researcher",
+        "label": "Dr. Researcher 6",
+        "education": "PhD in Field 6",
+        "work": "Institution 6",
+        "publications": [
+          "Paper 6-1",
+          "Paper 6-2",
+          "Paper 6-3"
+        ]
+      },
+      {
+        "id": "R7",
+        "group": "Researcher",
+        "label": "Dr. Researcher 7",
+        "education": "PhD in Field 7",
+        "work": "Institution 7",
+        "publications": [
+          "Paper 7-1",
+          "Paper 7-2",
+          "Paper 7-3"
+        ]
+      },
+      {
+        "id": "R8",
+        "group": "Researcher",
+        "label": "Dr. Researcher 8",
+        "education": "PhD in Field 8",
+        "work": "Institution 8",
+        "publications": [
+          "Paper 8-1",
+          "Paper 8-2",
+          "Paper 8-3"
+        ]
+      },
+      {
+        "id": "R9",
+        "group": "Researcher",
+        "label": "Dr. Researcher 9",
+        "education": "PhD in Field 9",
+        "work": "Institution 9",
+        "publications": [
+          "Paper 9-1",
+          "Paper 9-2",
+          "Paper 9-3"
+        ]
+      },
+      {
+        "id": "R10",
+        "group": "Researcher",
+        "label": "Dr. Researcher 10",
+        "education": "PhD in Field 10",
+        "work": "Institution 10",
+        "publications": [
+          "Paper 10-1",
+          "Paper 10-2",
+          "Paper 10-3"
+        ]
+      },
+      {
+        "id": "B1",
+        "group": "BookPublication",
+        "label": "Book Publication 1"
+      },
+      {
+        "id": "B2",
+        "group": "BookPublication",
+        "label": "Book Publication 2"
+      },
+      {
+        "id": "B3",
+        "group": "BookPublication",
+        "label": "Book Publication 3"
+      },
+      {
+        "id": "B4",
+        "group": "BookPublication",
+        "label": "Book Publication 4"
+      },
+      {
+        "id": "B5",
+        "group": "BookPublication",
+        "label": "Book Publication 5"
+      },
+      {
+        "id": "P1",
+        "group": "Publisher",
+        "label": "Publisher 1"
+      },
+      {
+        "id": "P2",
+        "group": "Publisher",
+        "label": "Publisher 2"
+      },
+      {
+        "id": "P3",
+        "group": "Publisher",
+        "label": "Publisher 3"
+      },
+      {
+        "id": "P4",
+        "group": "Publisher",
+        "label": "Publisher 4"
+      },
+      {
+        "id": "P5",
+        "group": "Publisher",
+        "label": "Publisher 5"
+      }
+    ],
+    "links": [
+      {
+        "source": "R1",
+        "target": "B3",
+        "label": "Author"
+      },
+      {
+        "source": "R1",
+        "target": "B5",
+        "label": "Author"
+      },
+      {
+        "source": "R2",
+        "target": "B4",
+        "label": "Author"
+      },
+      {
+        "source": "R2",
+        "target": "B2",
+        "label": "Author"
+      },
+      {
+        "source": "R3",
+        "target": "B5",
+        "label": "Author"
+      },
+      {
+        "source": "R3",
+        "target": "B3",
+        "label": "Author"
+      },
+      {
+        "source": "R4",
+        "target": "B4",
+        "label": "Author"
+      },
+      {
+        "source": "R4",
+        "target": "B5",
+        "label": "Author"
+      },
+      {
+        "source": "R5",
+        "target": "B3",
+        "label": "Author"
+      },
+      {
+        "source": "R5",
+        "target": "B4",
+        "label": "Author"
+      },
+      {
+        "source": "R6",
+        "target": "B4",
+        "label": "Author"
+      },
+      {
+        "source": "R6",
+        "target": "B2",
+        "label": "Author"
+      },
+      {
+        "source": "R7",
+        "target": "B1",
+        "label": "Author"
+      },
+      {
+        "source": "R7",
+        "target": "B5",
+        "label": "Author"
+      },
+      {
+        "source": "R8",
+        "target": "B5",
+        "label": "Author"
+      },
+      {
+        "source": "R8",
+        "target": "B3",
+        "label": "Author"
+      },
+      {
+        "source": "R9",
+        "target": "B5",
+        "label": "Author"
+      },
+      {
+        "source": "R9",
+        "target": "B4",
+        "label": "Author"
+      },
+      {
+        "source": "R10",
+        "target": "B2",
+        "label": "Author"
+      },
+      {
+        "source": "R10",
+        "target": "B1",
+        "label": "Author"
+      },
+      {
+        "source": "B1",
+        "target": "P4",
+        "label": "PublishedIn"
+      },
+      {
+        "source": "B2",
+        "target": "P4",
+        "label": "PublishedIn"
+      },
+      {
+        "source": "B3",
+        "target": "P4",
+        "label": "PublishedIn"
+      },
+      {
+        "source": "B4",
+        "target": "P5",
+        "label": "PublishedIn"
+      },
+      {
+        "source": "B5",
+        "target": "P3",
+        "label": "PublishedIn"
+      }
+    ]
+  }
