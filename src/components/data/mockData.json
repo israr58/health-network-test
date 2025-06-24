@@ -5,7 +5,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 1",
         "education": "PhD in Field 1",
-        "photo": "https://content-system.newrich.com/api/attachments/media/eyJpdiI6IjJudUR1cW1pSnR2YmxMT0YzQlA5V3c9PSIsInZhbHVlIjoiRFppUzhMYjhHcExiTGh2MXRLcUZ4RUtocjdHanRmM3BNQ3JJMFZLWUxTQklWamovREtlWE9jZWxLaklPc0FaSyIsIm1hYyI6IjVmMWY3OTVmN2JmMWRjYzZiNjQ2MjMyZWVhMWQ1OWY0YmMzZjMyNGM2OTNkNmIyYTdmODllMmMwYzZmM2ZlNGIiLCJ0YWciOiIifQ==",
+        "photo": "https://img.freepik.com/free-vector/businessman-character-avatar-isolated_24877-60111.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 1",
         "publications": [
           "Paper 1-1",
@@ -18,6 +18,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 2",
         "education": "PhD in Field 2",
+        "photo": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 2",
         "publications": [
           "Paper 2-1",
@@ -30,6 +31,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 3",
         "education": "PhD in Field 3",
+        "photo": "https://img.freepik.com/free-vector/isolated-young-handsome-man-different-poses-white-background-illustration_632498-859.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 3",
         "publications": [
           "Paper 3-1",
@@ -42,6 +44,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 4",
         "education": "PhD in Field 4",
+        "photo": "https://img.freepik.com/free-vector/smiling-young-man-illustration_1308-174669.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 4",
         "publications": [
           "Paper 4-1",
@@ -54,6 +57,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 5",
         "education": "PhD in Field 5",
+        "photo": "https://img.freepik.com/premium-vector/person-with-blue-shirt-that-says-name-person_1029948-7040.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 5",
         "publications": [
           "Paper 5-1",
@@ -66,6 +70,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 6",
         "education": "PhD in Field 6",
+        "photo": "https://img.freepik.com/premium-vector/male-face-avatar-icon-set-flat-design-social-media-profiles_1281173-3806.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 6",
         "publications": [
           "Paper 6-1",
@@ -78,6 +83,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 7",
         "education": "PhD in Field 7",
+        "photo": "https://img.freepik.com/premium-vector/man-profile_1083548-15963.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 7",
         "publications": [
           "Paper 7-1",
@@ -90,6 +96,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 8",
         "education": "PhD in Field 8",
+        "photo": "https://img.freepik.com/premium-photo/color-user-icon-white-background_961147-8.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 8",
         "publications": [
           "Paper 8-1",
@@ -102,6 +109,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 9",
         "education": "PhD in Field 9",
+        "photo": "https://img.freepik.com/premium-vector/avatar-icon0002_750950-43.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 9",
         "publications": [
           "Paper 9-1",
@@ -114,6 +122,7 @@
         "group": "Researcher",
         "label": "Dr. Researcher 10",
         "education": "PhD in Field 10",
+        "photo": "https://img.freepik.com/free-vector/young-man-with-glasses-avatar_1308-175763.jpg?semt=ais_hybrid&w=740",
         "work": "Institution 10",
         "publications": [
           "Paper 10-1",
@@ -124,52 +133,132 @@
       {
         "id": "B1",
         "group": "BookPublication",
-        "label": "Book Publication 1"
+        "label": "Book Publication 1",
+        "education": "PhD in Field 1",
+        "work": "Institution 1",
+        "publications": [
+          "Paper 1-1",
+          "Paper 1-2",
+          "Paper 1-3"
+        ],
+        "photo": "https://img.freepik.com/free-vector/smiling-young-man-glasses_1308-174373.jpg?semt=ais_hybrid&w=740"
       },
       {
         "id": "B2",
         "group": "BookPublication",
-        "label": "Book Publication 2"
+        "label": "Book Publication 2",
+        "education": "PhD in Field 2",
+        "work": "Institution 2",
+        "publications": [
+          "Paper 2-1",
+          "Paper 2-2",
+          "Paper 2-3"
+        ],
+        "photo": "https://img.freepik.com/premium-photo/icon-button-man_665280-69540.jpg?semt=ais_hybrid&w=740"
       },
       {
         "id": "B3",
         "group": "BookPublication",
-        "label": "Book Publication 3"
+        "label": "Book Publication 3",
+        "education": "PhD in Field 3",
+        "work": "Institution 3",
+        "publications": [
+          "Paper 3-1",
+          "Paper 3-2",
+          "Paper 3-3"
+        ],
+        "photo": "https://img.freepik.com/free-vector/people-design-illustration_24877-49375.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       },
       {
         "id": "B4",
         "group": "BookPublication",
-        "label": "Book Publication 4"
+        "label": "Book Publication 4",
+        "education": "PhD in Field 4",
+        "work": "Institution 4",
+        "publications": [
+          "Paper 4-1",
+          "Paper 4-2",
+          "Paper 4-3"
+        ],
+        "photo": "https://img.freepik.com/premium-vector/user-circle-outline-gradient-style_78370-7034.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       },
       {
         "id": "B5",
         "group": "BookPublication",
-        "label": "Book Publication 5"
+        "label": "Book Publication 5",
+        "education": "PhD in Field 5",
+        "work": "Institution 5",
+        "publications": [
+          "Paper 5-1",
+          "Paper 5-2",
+          "Paper 5-3"
+        ],
+        "photo": "https://img.freepik.com/premium-vector/portrait-middle-age-male-man-with-ball-hidden_684058-2608.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       },
       {
         "id": "P1",
         "group": "Publisher",
-        "label": "Publisher 1"
+        "label": "Publisher 1",
+        "education": "PhD in Field 1",
+        "work": "Institution 1",
+        "publications": [
+          "Paper 1-1",
+          "Paper 1-2",
+          "Paper 1-3"
+        ],
+        "photo": "https://img.freepik.com/premium-vector/user-profile-icon-vector-image-can-be-used-gaming-ecommerce_120816-406884.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       },
       {
         "id": "P2",
         "group": "Publisher",
-        "label": "Publisher 2"
+        "label": "Publisher 2",
+        "education": "PhD in Field 2",
+        "work": "Institution 2",
+        "publications": [
+          "Paper 2-1",
+          "Paper 2-2",
+          "Paper 2-3"
+        ],
+        "photo": "https://img.freepik.com/premium-vector/young-man-avatar-character-vector-illustration-design_24877-18517.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       },
       {
         "id": "P3",
         "group": "Publisher",
-        "label": "Publisher 3"
+        "label": "Publisher 3",
+        "education": "PhD in Field 3",
+        "work": "Institution 3",
+        "publications": [
+          "Paper 3-1",
+          "Paper 3-2",
+          "Paper 3-3"
+        ],
+        "photo": "https://img.freepik.com/premium-vector/technology-concept-vector-illustration-featuring-blockchain-design-flat-style-elements_1226483-3854.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       },
       {
         "id": "P4",
         "group": "Publisher",
-        "label": "Publisher 4"
+        "label": "Publisher 4",
+        "education": "PhD in Field 4",
+        "work": "Institution 4",
+        "publications": [
+          "Paper 4-1",
+          "Paper 4-2",
+          "Paper 4-3"
+        ],
+        "photo": "https://img.freepik.com/premium-vector/male-character-social-network-concept_24877-17897.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       },
       {
         "id": "P5",
         "group": "Publisher",
-        "label": "Publisher 5"
+        "label": "Publisher 5",
+        "education": "PhD in Field 5",
+        "work": "Institution 5",
+        "publications": [
+          "Paper 5-1",
+          "Paper 5-2",
+          "Paper 5-3"
+        ],
+        "photo": "https://img.freepik.com/premium-vector/european-men-avatar_7814-344.jpg?ga=GA1.1.587590756.1750762363&semt=ais_items_boosted&w=740"
       }
     ],
     "links": [
