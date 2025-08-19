@@ -33,6 +33,7 @@ Designed to match real-world technical challenge requirements.
 - Plain CSS / Inline styling (clean, easy styling)
 
 # Project Structure
+ ```bash
 src/
  ├── App.jsx               # Main container, handles search & clear logic
  ├── components/
@@ -42,7 +43,8 @@ src/
  │   ├── EdgeModal.jsx     # Shows connection details
  ├── data/
  │   └── mock_large_graph.json  # Example graph data with HCPs and connections
- ├── main.jsx              # Vite entry
+ ├── main.jsx
+  ```            
 
 # 1️⃣ Clone this repo
 git clone https://github.com/israr58/health-network-test.git
